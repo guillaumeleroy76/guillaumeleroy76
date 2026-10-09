@@ -3,8 +3,8 @@
 
 <p align="left">
   <a href="https://www.imt-atlantique.fr"><img src="https://img.shields.io/badge/École-IMT_Atlantique-004B87?style=flat-square&logo=ionos&logoColor=white" alt="IMT Atlantique" /></a>
-  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:guillaume.leroy@imt-atlantique.net"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/guillaume-leroy-051235385"><img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
