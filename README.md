@@ -23,6 +23,6 @@
 * **Contexte :** Conception et réalisation d'un drone de surface autonome destiné à la surveillance maritime.
 * **Réalisations :** Pilotage d'une équipe pluridisciplinaire, planification agile, et développement d'un sous-système de vision intelligente embarquée sur Raspberry Pi intégrant un modèle YOLO couplé à une architecture en cascade pour optimiser la consommation énergétique.
 
-### PRONTO — *Développeur Modélisateur (Java)*
+### PRONTO 
 * **Contexte :** Simulation multi-acteurs de la filière économique mondiale du cacao.
 * **Réalisations :** Modélisation et développement en Java d'un agent économique (Producteur) intégrant la gestion des stocks, de la main-d'œuvre et l'adaptation dynamique face aux fluctuations du marché.
