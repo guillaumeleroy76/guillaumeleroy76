@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 
 * **Langages de programmation :** Python, Java, Julia, SQL
 * **IA & Modélisation :** Machine Learning, Deep Learning, Modélisation Stochastique, Calcul Matriciel
